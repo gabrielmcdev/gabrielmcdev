@@ -2,7 +2,7 @@
 
 ¡Hola! 👋 Soy [Tu Nombre], y este es mi espacio en GitHub donde comparto y colaboro en proyectos interesantes. Permíteme contarte un poco más sobre mí y lo que puedes encontrar aquí.
 
-![Programación](enlace_imagen_programacion.jpg)
+![Programación](https://i.pinimg.com/564x/01/aa/18/01aa18df0be43b5c9833fec804638ae3.jpg)
 
 ## Acerca de Mí
 
